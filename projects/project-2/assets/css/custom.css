@@ -1,0 +1,28 @@
+/* custom css file */
+
+
+/* home page main image */
+
+#home-main-image {
+    background-image: url(../img/home-page-large-image-memaw.jpeg);
+    background-size: cover;
+}
+
+#home-main-image .cell {
+    min-height: 300px;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+/* give-a-ride page main image */
+
+#give-a-ride-main-image {
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5835e57e59cc684019cab476/1512767159219-VKVMJHMLZFMJHGQADKQH/ke17ZwdGBToddI8pDm48kBgrB3PVZR14hSV0z7HRyu17gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8B3TMXo08QrBPglGYjl47Hl0fowl5burwSp45ZSIc6zmg/SRN-0021.jpg);
+    background-size: cover;
+}
+
+#give-a-ride-main-image .cell {
+    min-height: 300px;
+}
