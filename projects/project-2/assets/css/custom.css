@@ -6,6 +6,11 @@
 #home-main-image {
     background-image: url(../img/home-page-large-image-memaw.jpeg);
     background-size: cover;
+    min-height: 460px;
+}
+
+#home-main-image h2 {
+    margin: 100px, 0;
 }
 
 #home-main-image .cell {
@@ -15,6 +20,7 @@
 blockquote {
     font-style: italic;
 }
+
 
 /* give-a-ride page main image */
 
@@ -27,6 +33,7 @@ blockquote {
     min-height: 300px;
 }
 
+
 /* get-a-ride page main image */
 
 #get-a-ride-main-image {
@@ -37,6 +44,7 @@ blockquote {
 #get-a-ride-main-image .cell {
     min-height: 300px;
 }
+
 
 /* get-more-info page main image */
 
@@ -49,6 +57,7 @@ blockquote {
     min-height: 300px;
 }
 
+
 /* give-a-gift page main image */
 
 #give-a-gift-main-image {
@@ -60,6 +69,7 @@ blockquote {
     min-height: 300px;
 }
 
+
 /* footer */
 
 footer {
@@ -70,8 +80,3 @@ footer {
 footer label {
     color: #FFF
 }
-
-
-
- 
-
