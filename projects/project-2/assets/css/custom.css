@@ -27,31 +27,51 @@ blockquote {
     min-height: 300px;
 }
 
+/* get-a-ride page main image */
+
 #get-a-ride-main-image {
     background-image: url(https://images.squarespace-cdn.com/content/v1/5835e57e59cc684019cab476/1512757646577-Q21W8KAALEHRM48OLYFZ/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/SRN-0044.jpg);
     background-size: cover;
 }
 
-#get-a-ride-main-image {
+#get-a-ride-main-image .cell {
     min-height: 300px;
 }
 
+/* get-more-info page main image */
+
 #get-more-info-main-image {
-    background-image: url("https://images.squarespace-cdn.com/content/v1/5835e57e59cc684019cab476/1497555499288-EPAWOZNX9BADBWQTH7J3/ke17ZwdGBToddI8pDm48kH0fOPcaNHrcGgSs7OUJ5ZkUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2_VOmu81VRLsNubBE2fzDjeWQwPWPgsHZix02nkA5QxakL3r1G49e-3ZnDLNRdB_t/Portrait.jpg");
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5835e57e59cc684019cab476/1497555499288-EPAWOZNX9BADBWQTH7J3/ke17ZwdGBToddI8pDm48kH0fOPcaNHrcGgSs7OUJ5ZkUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2_VOmu81VRLsNubBE2fzDjeWQwPWPgsHZix02nkA5QxakL3r1G49e-3ZnDLNRdB_t/Portrait.jpg);
     background-size: cover;
 }
 
-#get-more-info-main-image {
+#get-more-info-main-image .cell {
     min-height: 300px;
 }
+
+/* give-a-gift page main image */
+
+#give-a-gift-main-image {
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5835e57e59cc684019cab476/1568147862597-HOM8EQ9AH1UYCF42QEDG/ke17ZwdGBToddI8pDm48kHH9S2ID7_bpupQnTdrPcoF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0nQwvinDXPV4EYh2MRzm-RRB5rUELEv7EY2n0AZOrEupxpSyqbqKSgmzcCPWV5WMiQ/SRN-0053.jpg);
+    background-size: cover;
+}
+
+#give-a-gift-main-image .cell {
+    min-height: 300px;
+}
+
+/* footer */
 
 footer {
     background-color: #292929;
     color: #FFF;
 }
 
- 
+footer label {
+    color: #FFF
+}
 
 
 
  
+
